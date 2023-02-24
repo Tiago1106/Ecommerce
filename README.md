@@ -1,4 +1,4 @@
-# Clone Audio Player
+# Ecommerce
 #### Project: Update studies with React, Typescript. Creating an ECommerce page referring to [Figma](https://www.figma.com/file/3RqPfS5PW9whbQNCTTaoqA/%5B2020-09%5D-MZ---Layout-Teste-de-vagas-para-time-de-Devs?node-id=2%3A3979&t=zkeGudKfHKKiHl8r-0) sent by Maeztra.
 
 Developed by [Tiago de Freitas Pinheiro](https://github.com/Tiago1106), [Linkedin](https://www.linkedin.com/in/tiagofp00/)
