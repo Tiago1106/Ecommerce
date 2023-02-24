@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.js": "/Ecommerce/static/js/main.0af9760d.js",
+    "static/media/BackgroundImageSlider.png": "/Ecommerce/static/media/BackgroundImageSlider.dedeb1cc194b6e8f6364.png",
+    "static/media/NewColection.png": "/Ecommerce/static/media/NewColection.17a7d916f66a1527c612.png",
+    "static/media/ImageOffers.png": "/Ecommerce/static/media/ImageOffers.a5045b752fc712460f33.png",
+    "static/media/shelf-1.png": "/Ecommerce/static/media/shelf-1.0f37817c79c9e3b3e0b7.png",
+    "static/media/shelf-2.png": "/Ecommerce/static/media/shelf-2.7c1a12da4f8fe56bcceb.png",
+    "static/media/IconTroca.svg": "/Ecommerce/static/media/IconTroca.9facf862ba964df7cfc13f1b39e4322c.svg",
+    "static/media/IconImportado.svg": "/Ecommerce/static/media/IconImportado.f18ea7de57b57817ab391a2113c6b0dc.svg",
+    "static/media/Maeztra.svg": "/Ecommerce/static/media/Maeztra.a21cbc070c9a611886a5389182999d9e.svg",
+    "static/media/IconDesconto.svg": "/Ecommerce/static/media/IconDesconto.4c6247741dd5918f1775f2cf7933417e.svg",
+    "static/media/IconFrete.svg": "/Ecommerce/static/media/IconFrete.961def0b8490b01eb2fbbbf696bad5f4.svg",
+    "static/media/IconEstoque.svg": "/Ecommerce/static/media/IconEstoque.4670facd5d9b97d0210dedc0cd6ff1e9.svg",
+    "static/media/Mastercard.svg": "/Ecommerce/static/media/Mastercard.98f0ac24485061c5c1ff037a83063851.svg",
+    "static/media/IconEnphasis.svg": "/Ecommerce/static/media/IconEnphasis.e971317c9ea7047fe54ad7b05087ee4b.svg",
+    "static/media/Vtex.svg": "/Ecommerce/static/media/Vtex.4b257a5ec520a39c45951d2503e15881.svg",
+    "static/media/logo-maeztra-novo.svg": "/Ecommerce/static/media/logo-maeztra-novo.dc939f26b70f8ce891572620b48daece.svg",
+    "static/media/Instagram.svg": "/Ecommerce/static/media/Instagram.8f5f736448c0fb26a630700649a48613.svg",
+    "static/media/Visa.svg": "/Ecommerce/static/media/Visa.29c8072c239d23a14e403db7cff73329.svg",
+    "static/media/IconCart.svg": "/Ecommerce/static/media/IconCart.a51f61e6e18e1a03c7d2e0807d28ed48.svg",
+    "static/media/IconHeart.svg": "/Ecommerce/static/media/IconHeart.338fa8a9373a77dc665ac345509809c9.svg",
+    "static/media/IconPerson.svg": "/Ecommerce/static/media/IconPerson.2c9211200a124ccadd601ae908031b66.svg",
+    "static/media/IconSearch.svg": "/Ecommerce/static/media/IconSearch.cb3400d301efefc9b17d39c42ed2351d.svg",
+    "static/media/Youtube.svg": "/Ecommerce/static/media/Youtube.a9768b50c6e827f77b052f13511799dd.svg",
+    "index.html": "/Ecommerce/index.html",
+    "static/media/Linkedln.svg": "/Ecommerce/static/media/Linkedln.33e7a284c717e55e6992f6fac65edde8.svg",
+    "static/media/facebook.com.svg": "/Ecommerce/static/media/facebook.com.bed7d4f0aa0ceb0a54bc6f5ea4514b21.svg",
+    "main.0af9760d.js.map": "/Ecommerce/static/js/main.0af9760d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.0af9760d.js"
+  ]
+}
